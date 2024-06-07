@@ -31,6 +31,10 @@ I'm always open to new ideas and opportunities. Let's connect and explore exciti
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+
 
 
 **Frameworks:**
