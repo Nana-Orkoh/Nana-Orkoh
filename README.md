@@ -31,11 +31,20 @@ I'm always open to new ideas and opportunities. Let's connect and explore exciti
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
+
+
+**Frameworks:**
+
+![Spring Boot](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=6aa6f8)
+![Django](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+
 
 **Tools and Services:**
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Visual Studio Code](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![IntelliJ IDEA](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
+
 
 <br/>
 
